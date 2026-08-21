@@ -1,50 +1,49 @@
+<div align="center">
+
 # Md. Tanvir Islam Riyad
 
 ### B.Sc. ICE Student | Aspiring Researcher in AI/ML, Cybersecurity & Intelligent Networks
 
-I am a **Bachelor of Science student in Information and Communication Engineering (ICE)** at **Bangladesh University of Professionals (BUP)**. My interests lie at the intersection of artificial intelligence, cybersecurity, network security, IoT security, and communication systems.
+[![GitHub](https://img.shields.io/badge/GitHub-tanvirislam47--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvirislam47-prog)
 
-I am building a research-oriented foundation through machine-learning projects, security-focused experimentation, and continued study of intelligent network systems. I am particularly interested in developing **security-aware AI systems** that can support reliable, adaptive, and practical digital infrastructure.
+</div>
 
-## Research Interests
+## About Me
 
-| Area | Focus |
-|---|---|
-| **AI & Security** | AI/ML-based cybersecurity, machine learning for security, and deep learning |
-| **Networks** | Network intrusion detection and intelligent network systems |
+I am a **B.Sc. student in Information and Communication Engineering (ICE)** at **Bangladesh University of Professionals (BUP)**. My interests lie at the intersection of artificial intelligence, cybersecurity, network security, IoT security, and communication systems.
+
+I am building a research-oriented foundation through machine-learning projects, security-focused experimentation, and continued study of intelligent network systems. My long-term direction is to develop **security-aware AI systems** that can support reliable, adaptive, and practical digital infrastructure.
+
+## Research Focus
+
+| Area | Current direction |
+| --- | --- |
+| **AI & cybersecurity** | AI/ML-based cybersecurity, machine learning for security applications, and deep learning |
+| **Network security** | Network intrusion detection and intelligent network systems |
 | **IoT & AIoT** | IoT security, AIoT systems, and security-aware intelligent systems |
-| **Communications** | Communication systems and secure digital infrastructure |
+| **Communication systems** | Communication systems and secure digital infrastructure |
 
-## Technical Skills
+## Featured Work
 
-### Programming Languages
+| Project | What it demonstrates | Technology |
+| --- | --- | --- |
+| [**AI-Based Network Intrusion Detection and Security Monitoring System**](https://github.com/tanvirislam47-prog/ai-nids-security-monitor) | Machine-learning-based intrusion detection using the UNSW-NB15 dataset, comparative model evaluation, CSV batch prediction, and security monitoring through a web application. | Python, Scikit-learn, Django, CSV workflows |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### Project Highlights
 
-### Frameworks & Libraries
+- **Dataset:** UNSW-NB15
+- **Models:** Logistic Regression, Decision Tree, Random Forest, and XGBoost
+- **Capabilities:** Machine-learning-based intrusion detection, CSV batch prediction, model-performance visualization, and network security analysis
+- **Repository:** [ai-nids-security-monitor](https://github.com/tanvirislam47-prog/ai-nids-security-monitor)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## Technical Toolkit
 
-### Database & Developer Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## Featured Project
-
-### [AI-Based Network Intrusion Detection and Security Monitoring System](https://github.com/tanvirislam47-prog/ai-nids-security-monitor)
-
-A machine-learning-based network security system for analyzing network traffic and supporting intrusion detection through a Django web application. The project uses the **UNSW-NB15 dataset** and combines security analysis with practical model evaluation and batch prediction workflows.
-
-**Implementation highlights**
-
-- Machine-learning-based network intrusion detection
-- Comparative evaluation with **Logistic Regression, Decision Tree, Random Forest, and XGBoost**
-- **Python** and **Scikit-learn** implementation
-- **Django** web application for the monitoring workflow
-- CSV-based batch prediction
-- Model-performance visualization and network security analysis
-
-[![View project repository](https://img.shields.io/badge/View%20project%20repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvirislam47-prog/ai-nids-security-monitor)
+| Domain | Tools and technologies |
+| --- | --- |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks & libraries** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ## Research & Publications
 
@@ -54,29 +53,35 @@ I have experience working on machine-learning-based projects and research papers
 
 ## Currently Learning
 
-- Advanced machine learning
-- Deep learning
-- AI-based cybersecurity
-- Network security
-- IoT security
-- Research methodology
+| Topic | Direction |
+| --- | --- |
+| **Advanced machine learning** | Strengthening model development and evaluation fundamentals |
+| **Deep learning** | Exploring neural methods for intelligent systems and security applications |
+| **AI-based cybersecurity** | Studying practical applications of AI for security analysis |
+| **Network security** | Developing stronger foundations in secure networked systems |
+| **IoT security** | Learning security considerations for connected and AIoT environments |
+| **Research methodology** | Improving literature review, experimentation, analysis, and technical communication |
 
-## GitHub / Developer Activity
+## GitHub Activity
 
 My GitHub profile documents ongoing learning, implementation, and research-oriented experimentation across AI/ML, cybersecurity, networking, and software development.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirislam47-prog&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanvirislam47-prog&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+
+</div>
 
 ## Connect
 
-The best way to connect with me is through GitHub:
+For research discussion, technical collaboration, or project-related communication, the best way to reach me is through GitHub:
 
-[![GitHub](https://img.shields.io/badge/GitHub-tanvirislam47--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvirislam47-prog)
+<div align="center">
 
-No additional contact links have been included because they were not provided.
+[![Visit my GitHub profile](https://img.shields.io/badge/Visit%20my%20GitHub%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvirislam47-prog)
+
+</div>
 
 ---
 
-*Open to research collaboration, technical discussions, and opportunities related to AI/ML, cybersecurity, network security, IoT security, and intelligent systems.*
+*Interested in research collaboration, technical discussions, and opportunities related to AI/ML, cybersecurity, network security, IoT security, and intelligent systems.*
