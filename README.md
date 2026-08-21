@@ -1,6 +1,6 @@
 # Md. Tanvir Islam Riyad
 
-### B.Sc. ICE Student · Aspiring Researcher in AI/ML, Cybersecurity & Intelligent Networks
+### B.Sc. ICE Student | Aspiring Researcher in AI/ML, Cybersecurity & Intelligent Networks
 
 I am a **Bachelor of Science student in Information and Communication Engineering (ICE)** at **Bangladesh University of Professionals (BUP)**. My interests lie at the intersection of artificial intelligence, cybersecurity, network security, IoT security, and communication systems.
 
